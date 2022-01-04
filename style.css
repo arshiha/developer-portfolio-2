@@ -19,6 +19,9 @@ color: rgb(245, 163, 11);
     width: 50%;
     padding-left: 5%;
 }
+.half-width p{
+    margin-bottom: 30px;
+}
 .half-width img{
     width: 80%;
 }
@@ -29,9 +32,11 @@ color: rgb(245, 163, 11);
     color: white;
     font-weight: 700;
     border-radius: 5px;
+    margin-top: 15px;
 }
 .top-banner{
-    background-image: url(banner7.png);
+    background-image: url(banner6.png);
+    padding-bottom: 50px;
 }
 .dream-big{
     background-image: url(banner7.png);
