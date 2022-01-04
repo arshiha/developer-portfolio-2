@@ -10,6 +10,7 @@ color: rgb(245, 163, 11);
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -27,5 +28,8 @@ section{
     border-radius: 5px;
 }
 .top-banner{
+    background-image: url(banner7.png);
+}
+.dream-big{
     background-image: url(banner7.png);
 }
